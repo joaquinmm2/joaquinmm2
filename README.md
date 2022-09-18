@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @joaquinmm2
 - 👀 I’m interested in crypto cars and javascript 
-- 🌱 I’m currently learning javascript
+- 🌱 I’m currently learning javascript and java
 - 💞️ I’m looking to collaborate on new projects
 - 📫 How to reach me on twitter @JoaquinMunez
 
