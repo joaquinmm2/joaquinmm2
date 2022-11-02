@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning javascript and java
 - 💞️ I’m looking to collaborate on new projects
 - 📫 How to reach me , u can follow on twitter @JoaquinMunez
+- i like cars and want to buid car software 
 
 
 <!---
