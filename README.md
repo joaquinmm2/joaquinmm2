@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on new projects
 - 📫 How to reach me , u can follow on twitter @JoaquinMunez
 - i like cars and want to buid car software 
-
+- i have cat and dog 
 
 <!---
 joaquinmm2/joaquinmm2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
