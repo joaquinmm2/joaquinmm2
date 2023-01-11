@@ -5,6 +5,7 @@
 - 📫 How to reach me , u can follow on twitter @JoaquinMunez
 - i like cars and want to buid car software 
 - i have cat and dog 
+i like fishing
 
 <!---
 joaquinmm2/joaquinmm2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
